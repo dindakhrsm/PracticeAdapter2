@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AdapterPlay v1.0</string>
+    <string name="student_list">List of Students</string>
+    <string name="teacher_list">List of Lecturers</string>
+    <string name="firstpage_title">Click one of two selectable items below:</string>
+    <!-- Title for the activity to add a new pet [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_student">Add new Student</string>
+    <!-- Label for overflow menu option that inserts fake pet data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <!-- Label for overflow menu option that deletes all pet data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Clear List</string>
+
+
+    <!-- Label for editor menu option to save pet and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current pet [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+</resources>
