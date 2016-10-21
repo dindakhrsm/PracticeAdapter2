@@ -209,7 +209,11 @@ public class StudentActivity extends AppCompatActivity {
                 return true;
             // Respond to a click on the "Clear List" menu option
             case R.id.clear_list:
-                // Do nothing for now
+                Intent intent = new Intent(StudentActivity.this, EmptyActivity.class);
+                startActivity(intent);
+                return true;
+            case android.R.id.home:
+                finish();
                 return true;
         }
         return super.onOptionsItemSelected(item);

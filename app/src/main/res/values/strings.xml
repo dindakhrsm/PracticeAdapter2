@@ -9,6 +9,8 @@
     <string name="action_insert_dummy_data">Insert Dummy Data</string>
     <!-- Label for overflow menu option that deletes all pet data in the app [CHAR LIMIT=20] -->
     <string name="action_delete_all_entries">Clear List</string>
+    <string name="textEmpty">No Student Found</string>
+    <string name="empty_list">List of Students</string>
 
 
     <!-- Label for editor menu option to save pet and leave editor [CHAR LIMIT=20] -->
