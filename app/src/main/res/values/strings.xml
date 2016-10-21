@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AdapterPlay v1.0</string>
+    <string name="app_name">StudentDatabaseApp v1.0</string>
     <string name="student_list">List of Students</string>
     <string name="teacher_list">List of Lecturers</string>
     <string name="firstpage_title">Click one of two selectable items below:</string>
